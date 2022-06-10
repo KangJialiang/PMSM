@@ -1,0 +1,9 @@
+src
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex*
+*.toc
+*.pdf
