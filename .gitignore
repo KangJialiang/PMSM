@@ -4,6 +4,8 @@ src
 *.fdb_latexmk
 *.fls
 *.log
+*.out
 *.synctex*
 *.toc
 *.pdf
+*.zip
